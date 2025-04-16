@@ -74,8 +74,11 @@ Welcome to the cutest Tic Tac Toe game ever! Built with Python, Tkinter, and spr
        pip install pygame
 ## 📸 Screenshots
 <p align="center">
-  <img src="cute_2.png" alt="Game Preview" width="200"/>
+  <img src="cute_1.png" alt="Game Screenshot 1" width="200" style="margin: 0 10px;" />
+  <img src="cute_2.png" alt="Game Screenshot 2" width="200" style="margin: 0 10px;" />
+  <img src="cute_3.png" alt="Game Screenshot 3" width="200" style="margin: 0 10px;" />
 </p>
+
 
 
 
