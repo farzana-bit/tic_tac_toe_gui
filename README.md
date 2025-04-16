@@ -73,7 +73,13 @@ Welcome to the cutest Tic Tac Toe game ever! Built with Python, Tkinter, and spr
     Install dependencies:
        pip install pygame
 ## 📸 Screenshots
-    You can add images or GIFs of the game here to showcase the cute visuals!
+<p align="center">
+  <img src="cute_2.png" alt="Game Preview" width="200"/>
+</p>
+
+
+
+
 ## 🎵 Add Your Own Music
     Place a cute_music.mp3 file in the root directory, or modify the code to load your favorite track.
 
